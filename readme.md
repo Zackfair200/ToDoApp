@@ -23,12 +23,12 @@ Después de clonar este repositorio, sigue estos pasos para configurar y ejecuta
 
 1. Navega a la carpeta `api-task` y ejecuta:
 
-   cd api-task
-   npm install
-   npm run start:dev
+   - cd api-task
+   - npm install
+   - npm run start:dev
 
 2. Navega a la carpeta `webapp` y ejecuta:
 
-   cd webapp
-   npm install
-   npm run dev
+   - cd webapp
+   - npm install
+   - npm run dev
